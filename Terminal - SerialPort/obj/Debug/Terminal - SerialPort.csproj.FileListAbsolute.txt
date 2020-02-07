@@ -1,0 +1,10 @@
+C:\Users\RedFish\source\repos\Terminal - SerialPort\Terminal - SerialPort\bin\Debug\Terminal - SerialPort.exe.config
+C:\Users\RedFish\source\repos\Terminal - SerialPort\Terminal - SerialPort\bin\Debug\Terminal - SerialPort.exe
+C:\Users\RedFish\source\repos\Terminal - SerialPort\Terminal - SerialPort\bin\Debug\Terminal - SerialPort.pdb
+C:\Users\RedFish\source\repos\Terminal - SerialPort\Terminal - SerialPort\obj\Debug\Terminal - SerialPort.csprojAssemblyReference.cache
+C:\Users\RedFish\source\repos\Terminal - SerialPort\Terminal - SerialPort\obj\Debug\Terminal___SerialPort.Form1.resources
+C:\Users\RedFish\source\repos\Terminal - SerialPort\Terminal - SerialPort\obj\Debug\Terminal___SerialPort.Properties.Resources.resources
+C:\Users\RedFish\source\repos\Terminal - SerialPort\Terminal - SerialPort\obj\Debug\Terminal - SerialPort.csproj.GenerateResource.cache
+C:\Users\RedFish\source\repos\Terminal - SerialPort\Terminal - SerialPort\obj\Debug\Terminal - SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\RedFish\source\repos\Terminal - SerialPort\Terminal - SerialPort\obj\Debug\Terminal - SerialPort.exe
+C:\Users\RedFish\source\repos\Terminal - SerialPort\Terminal - SerialPort\obj\Debug\Terminal - SerialPort.pdb
